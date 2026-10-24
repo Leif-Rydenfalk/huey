@@ -1,0 +1,6 @@
+Huey kit
+Copyright 2026 the Huey kit authors
+
+Hardware (hardware/): the printed parts of the Huey kit are our own clean-room designs, licensed CERN-OHL-W-2.0
+(hardware/LICENSES/CERN-OHL-W-2.0.txt); docs and pictures CC BY 4.0 (hardware/LICENSES/CC-BY-4.0.txt).
+Per-part provenance: hardware/README.md. No third-party mesh is included or was used.
